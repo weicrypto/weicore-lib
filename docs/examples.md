@@ -1,4 +1,4 @@
-# Dashcore examples
+# Weicore examples
 
 ## Create and Save a Private Key
 

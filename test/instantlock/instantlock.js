@@ -13,7 +13,7 @@ const diffArrayFixture = require('../fixtures/diffArray1170_1185.json');
 const diffArrayAdditionalFixture = require('../fixtures/diffArray1185-1200.json');
 const getSMLStoreJSONFixtureNoQuorums = require('../fixtures/getSMLStoreNoQuorumsJSON');
 
-const DashcoreLib = require('../../index');
+const WeicoreLib = require('../../index');
 
 describe('InstantLock', function () {
   this.timeout(15000);
@@ -32,7 +32,7 @@ describe('InstantLock', function () {
   let instantLockJSONFromTestNet;
 
   beforeEach(() => {
-    DashcoreLib.Networks.enableRegtest();
+    WeicoreLib.Networks.enableRegtest();
 
     str =
       '010101102862a43d122e6675aba4b507ae307af8e1e17febc77907e08b3efa28f41b000000004b446de00a592c67402c0a65649f4ad69f29084b3e9054f5aa6b85a50b497fe136a56617591a6a89237bada6af1f9b46eba47b5d89a8c4e49ff2d0236182307c85e12d70ca7118c5034004f93e45384079f46c6c2928b45cfc5d3ad640e70dfd87a9a3069899adfb3b1622daeeead19809b74354272ccf95290678f55c13728e3c5ee8f8417fcce3dfdca2a7c9c33ec981abdff1ec35a2e4b558c3698f01c1b8';

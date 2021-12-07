@@ -1,23 +1,23 @@
-# Dash URIs
+# Wei URIs
 
-Represents a Dash payment URI. Dash URI strings is a good standard to share payment request, sometimes as a Dash link or using a QR code.
+Represents a Wei payment URI. Wei URI strings is a good standard to share payment request, sometimes as a Wei link or using a QR code.
 
 URI Examples:
 
 ```
-dash:XuUGDZHrKLo841CyamDbG5W7n59epA71h2
-dash:XuUGDZHrKLo841CyamDbG5W7n59epA71h2?amount=1.2
-dash:XuUGDZHrKLo841CyamDbG5W7n59epA71h2?amount=1.2&message=Payment&label=Satoshi&extra=other-param
+wei:XuUGDZHrKLo841CyamDbG5W7n59epA71h2
+wei:XuUGDZHrKLo841CyamDbG5W7n59epA71h2?amount=1.2
+wei:XuUGDZHrKLo841CyamDbG5W7n59epA71h2?amount=1.2&message=Payment&label=Satoshi&extra=other-param
 ```
 
 ## URI Validation
 
-The main use that we expect you'll have for the `URI` class in Dashcore is validating and parsing Dash URIs. A `URI` instance exposes the address as a Dashcore `Address` object and the amount in satoshis, if present.
+The main use that we expect you'll have for the `URI` class in Weicore is validating and parsing Wei URIs. A `URI` instance exposes the address as a Weicore `Address` object and the amount in satoshis, if present.
 
 The code for validating URIs looks like this:
 
 ```javascript
-var uriString = 'dash:XuUGDZHrKLo841CyamDbG5W7n59epA71h2?amount=1.2';
+var uriString = 'wei:XuUGDZHrKLo841CyamDbG5W7n59epA71h2?amount=1.2';
 var valid = URI.isValid(uriString);
 var uri = new URI(uriString);
 console.log(uri.address.network, uri.amount); // 'livenet', 120000000
@@ -41,7 +41,7 @@ var uri = new URI({
   amount: 10000, // in satoshis
   message: 'My payment request',
 });
-console.log(uri.toString()); //dash:XuUGDZHrKLo841CyamDbG5W7n59epA71h2?amount=0.0001&message=My%20payment%20request
+console.log(uri.toString()); //wei:XuUGDZHrKLo841CyamDbG5W7n59epA71h2?amount=0.0001&message=My%20payment%20request
 ```
 
 Methods `toObject`, `toJSON` and `inspect` remain available.
@@ -49,7 +49,7 @@ Methods `toObject`, `toJSON` and `inspect` remain available.
 ## fromString
 
 ```
-var uri = new URI("dash:XuUGDZHrKLo841CyamDbG5W7n59epA71h2?amount=0.0001&message=My%20payment%20request>")
+var uri = new URI("wei:XuUGDZHrKLo841CyamDbG5W7n59epA71h2?amount=0.0001&message=My%20payment%20request>")
 ```
 
 ## fromObject

@@ -38,7 +38,7 @@ Returns : {Mnemonic}
 ## .toHDPrivateKey()
 
 **Description**: Generates a HD Private Key from a Mnemonic.  
-Optionally receive a passphrase and dash network.
+Optionally receive a passphrase and wei network.
 
 **Parameters**:
 

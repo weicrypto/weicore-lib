@@ -1,13 +1,13 @@
-# Dashcore Library
+# Weicore Library
 
-[![NPM Version](https://img.shields.io/npm/v/@dashevo/dashcore-lib)](https://www.npmjs.com/package/@dashevo/dashcore-lib)
-[![Build Status](https://github.com/dashevo/dashcore-lib/actions/workflows/test_and_release.yml/badge.svg)](https://github.com/dashevo/dashcore-lib/actions/workflows/test_and_release.yml)
-[![Release Date](https://img.shields.io/github/release-date/dashevo/dashcore-lib)](https://github.com/dashevo/dashcore-lib/releases/latest)
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen)](https://github.com/RichardLitt/standard-readme)
+[![NPM Version](https://img.shields.io/npm/v/@weicrypto/weicore-lib)](https://www.npmjs.com/package/@weicrypto/weicore-lib)
+[![Build Status](https://github.com/weicrypto/weicore-lib/actions/workflows/test_and_release.yml/badge.svg)](https://github.com/weicrypto/weicore-lib/actions/workflows/test_and_release.yml)
+[![Release Date](https://img.shields.io/github/release-date/weicrypto/weicore-lib)](https://github.com/weicrypto/weicore-lib/releases/latest) //todo update later
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen)](https://github.com/RichardLitt/standard-readme) //todo update later
 
-A pure and powerful JavaScript Dash library.
+A pure and powerful JavaScript Wei library.
 
-Dash is a powerful new peer-to-peer platform for the next generation of financial technology. The decentralized nature of the Dash network allows for highly resilient Dash infrastructure, and the developer community needs reliable, open-source tools to implement Dash apps and services.
+Wei is a powerful new peer-to-peer platform for the next generation of financial technology. The decentralized nature of the Wei network allows for highly resilient Wei infrastructure, and the developer community needs reliable, open-source tools to implement Wei apps and services.
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@ Dash is a powerful new peer-to-peer platform for the next generation of financia
 ### NodeJS
 
 ```
-npm install @dashevo/dashcore-lib
+npm install @weicrypto/weicore-lib
 ```
 
 ### Browser
@@ -30,9 +30,9 @@ npm install @dashevo/dashcore-lib
 #### CDN Standalone
 
 ```html
-<script src="https://unpkg.com/@dashevo/dashcore-lib"></script>
+<script src="https://unpkg.com/@weicrypto/weicore-lib"></script>
 <script>
-  const { PrivateKey } = dashcore;
+  const { PrivateKey } = weicore;
   const privateKey = new PrivateKey();
   const address = privateKey.toAddress().toString();
   ...
@@ -41,22 +41,22 @@ npm install @dashevo/dashcore-lib
 
 #### Building the Browser Bundle
 
-To build a dashcore-lib full bundle for the browser:
+To build a weicore-lib full bundle for the browser:
 
 ```sh
 npm run build
 ```
 
-This will generate a file named `dashcore-lib.min.js` in the `dist/` folder.
+This will generate a file named `weicore-lib.min.js` in the `dist/` folder.
 
 ## Usage
 
 ### Browser
 
 ```
-<script src='./dist/dashcore-lib.min.js' type="text/javascript"></script>
+<script src='./dist/weicore-lib.min.js' type="text/javascript"></script>
 <script>
-  const PrivateKey = dashcore.PrivateKey;
+  const PrivateKey = weicore.PrivateKey;
   const privateKey = new PrivateKey();
   const address = privateKey.toAddress().toString();
 </script>
@@ -66,7 +66,7 @@ This will generate a file named `dashcore-lib.min.js` in the `dist/` folder.
 
 Some functionality is implemented as a module that can be installed separately:
 
-- [Payment Protocol Support](https://github.com/dashevo/dashcore-payment-protocol)
+- [Payment Protocol Support](https://github.com/dashevo/dashcore-payment-protocol) //todo update later
 - [Peer to Peer Networking](https://github.com/dashevo/dashcore-p2p)
 - [Dash Core JSON-RPC](https://github.com/dashevo/dashd-rpc)
 - [Mnemonics](https://github.com/dashevo/dashcore-mnemonic)
@@ -76,8 +76,8 @@ Some functionality is implemented as a module that can be installed separately:
 ### Development & Tests
 
 ```sh
-git clone https://github.com/dashevo/dashcore-lib
-cd dashcore-lib
+git clone https://github.com/weicrypto/weicore-lib
+cd weicore-lib
 npm install
 ```
 
@@ -135,15 +135,15 @@ Some examples can be found [here](docs/examples.md), below is a list of direct l
 - [Generate an address from a SHA256 hash](docs/examples.md#generate-an-address-from-a-sha256-hash)
 - [Import an address via WIF](docs/examples.md#import-an-address-via-wif)
 - [Create a Transaction](docs/examples.md#create-a-transaction)
-- [Sign a Dash message](docs/examples.md#sign-a-bitcoin-message)
-- [Verify a Dash message](docs/examples.md#verify-a-bitcoin-message)
+- [Sign a Wei message](docs/examples.md#sign-a-bitcoin-message)
+- [Verify a Wei message](docs/examples.md#verify-a-bitcoin-message)
 - [Create an OP RETURN transaction](docs/examples.md#create-an-op-return-transaction)
 - [Create a 2-of-3 multisig P2SH address](docs/examples.md#create-a-2-of-3-multisig-p2sh-address)
 - [Spend from a 2-of-2 multisig P2SH address](docs/examples.md#spend-from-a-2-of-2-multisig-p2sh-address)
 
 ## Contributing
 
-Please send pull requests for bug fixes, code optimization, and ideas for improvement. For more information on how to contribute, please refer to our [CONTRIBUTING](https://github.com/dashevo/dashcore-lib/blob/master/CONTRIBUTING.md) file.
+Please send pull requests for bug fixes, code optimization, and ideas for improvement. For more information on how to contribute, please refer to our [CONTRIBUTING](https://github.com/weicrypto/weicore-lib/blob/master/CONTRIBUTING.md) file.
 
 ## License
 
@@ -152,3 +152,4 @@ Code released under [the MIT license](LICENSE).
 Copyright 2013-2017 BitPay, Inc. Bitcore is a trademark maintained by BitPay, Inc.  
 Copyright 2016-2017 The Dash Foundation, Inc.  
 Copyright 2017-2020 Dash Core Group, Inc.
+Copyright 2021 Wei Core Group, Inc.

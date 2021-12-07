@@ -1888,7 +1888,7 @@ describe('Transaction', function () {
         'd0df4810f9899a71968b5e4147b52cab86ad9342a9806a514227514d8a160a3c';
       var hashSTPacket =
         'a0df4810f9899a71968b5e4147b52cab86ad9342a9806a514227514d8a160a3a';
-      var creditFee = 1000; // 0.00001 dash
+      var creditFee = 1000; // 0.00001 wei
 
       it('Should parse and verify hex', function () {
         var subTxTransitionTxHex =

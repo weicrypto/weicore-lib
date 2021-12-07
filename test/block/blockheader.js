@@ -12,7 +12,7 @@ var BlockHeader = bitcore.BlockHeader;
 var fs = require('fs');
 var should = require('chai').should();
 
-// https://test-insight.dash.org/block/0000000cc55c08ed64afb41c7c2f382a64901eadfcc6663c4e70987fdc0e8401
+// https://test-insight.dash.org/block/0000000cc55c08ed64afb41c7c2f382a64901eadfcc6663c4e70987fdc0e8401 todo update later
 var dataRawBlockBuffer = fs.readFileSync('test/data/blk19976-testnet.dat');
 var dataRawBlockBinary = fs.readFileSync(
   'test/data/blk19976-testnet.dat',

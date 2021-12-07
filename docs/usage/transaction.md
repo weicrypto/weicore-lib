@@ -45,7 +45,7 @@ Returns : {Transaction} An instance of Transaction
 
 ## .serialize(unsafe)
 
-**Description**: Retrieve a hex string that can be used with dashd's CLI interface (decoderawtransaction, sendrawtransaction)
+**Description**: Retrieve a hex string that can be used with weid's CLI interface (decoderawtransaction, sendrawtransaction)
 Flags that can be used to skip tests:
 
 - `disableAll`: disable all checks
@@ -65,7 +65,7 @@ Flags that can be used to skip tests:
 
 ## .checkSerialize(opts)
 
-**Description**: Retrieve a hex string that can be used with dashd's CLI interface (decoderawtransaction, sendrawtransaction)
+**Description**: Retrieve a hex string that can be used with weid's CLI interface (decoderawtransaction, sendrawtransaction)
 
 **Parameters**:
 
@@ -127,7 +127,7 @@ If nLockTime is 0, it returns null, if it is < 500000000, it returns a block hei
 **Description**: Add an input to this transaction.  
 This is a high level interface to add an input, for more control, use Transaction#addInput.
 
-Can receive, as output information, the output of dashd's `listunspent` command, and a slightly fancier format recognized by dashcore:
+Can receive, as output information, the output of weid's `listunspent` command, and a slightly fancier format recognized by weicore:
 
 ```json
 {
@@ -139,7 +139,7 @@ Can receive, as output information, the output of dashd's `listunspent` command,
 }
 ```
 
-Where `address` can be either a string or a dashcore Address object. The same is true for `script`, which can be a string or a dashcore Script.
+Where `address` can be either a string or a weicore Address object. The same is true for `script`, which can be a string or a weicore Script.
 
 **Parameters**:
 
@@ -229,7 +229,7 @@ Beware that this resets all the signatures for inputs (in further versions, SIGH
 
 | parameter   | type           | required | Description                 |
 | ----------- | -------------- | -------- | --------------------------- |
-| **address** | Address/String | yes      | An address to send dash to. |
+| **address** | Address/String | yes      | An address to send wei to. |
 | **amount**  | Number         | yes      | in satoshis                 |
 
 **Returns**: Transaction
@@ -392,7 +392,7 @@ The argument function MUST NOT modify the order of the original array
 
 ## .isCoinbase()
 
-**Description**: Analogous to dashd's IsCoinBase function in transaction.h
+**Description**: Analogous to weid's IsCoinBase function in transaction.h
 
 **Parameters**: None.
 

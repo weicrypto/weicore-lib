@@ -24,7 +24,7 @@
     },
     "dnsSeeds": [
       "testnet-seed.darkcoin.io",
-      "testnet-seed.dashdot.io",
+      "testnet-seed.dashdot.io",//todo update later
       "test.dnsseed.masternode.io"
     ]
   },

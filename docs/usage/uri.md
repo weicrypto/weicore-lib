@@ -1,11 +1,11 @@
 **Usage**: `new URI(data)`  
-**Description**: Instantiate an URI from a Dash URI String or an Object. A URI instance can be created with a Dash URI string or an object.
+**Description**: Instantiate an URI from a Wei URI String or an Object. A URI instance can be created with a Wei URI string or an object.
 All instances of URI are valid, the static method isValid allows checking before instantiation.
 All standard parameters can be found as members of the class, the address is represented using an {Address} instance and the amount is represented in satoshis. Any other non-standard parameters can be found under the extra member.
 
 | parameters      | type                 | required | Description                    |
 | --------------- | -------------------- | -------- | ------------------------------ |
-| **data**        | Object/Buffer/String | yes      | A Dash URI string or an Object |
+| **data**        | Object/Buffer/String | yes      | A Wei URI string or an Object |
 | **knownParams** | String[]             | yes      | Required non-standard params   |
 
 **Returns**: {URI} A new valid and frozen instance of URI
@@ -36,29 +36,29 @@ All standard parameters can be found as members of the class, the address is rep
 
 ## URI.isValid(data, knownParams)
 
-**Description**: Check if a dash URI string is valid
+**Description**: Check if a wei URI string is valid
 
 **Parameters**:
 
 | parameter | type   | required | Description       |
 | --------- | ------ | -------- | ----------------- |
-| **uri**   | String | yes      | A dash URI string |
+| **uri**   | String | yes      | A wei URI string |
 
 **Returns**: {Object} An object with the parsed params
 
 ```js
-const isValid = URI.isValid('dash:XsV4GHVKGTjQFvwB7c6mYsGV3Mxf7iser6'); //true
+const isValid = URI.isValid('wei:XsV4GHVKGTjQFvwB7c6mYsGV3Mxf7iser6'); //true
 ```
 
 ## URI.parse(uri)
 
-**Description**: Convert a Dash URI string into a simple object.
+**Description**: Convert a Wei URI string into a simple object.
 
 **Parameters**:
 
 | parameter | type   | required | Description       |
 | --------- | ------ | -------- | ----------------- |
-| **uri**   | String | yes      | A dash URI string |
+| **uri**   | String | yes      | A wei URI string |
 
 Returns : {Object} An object with the parsed params
 
@@ -76,7 +76,7 @@ Returns : {Object} An object with the parsed params
 
 **Parameters**: None.
 
-**Returns**: {string} Dash URI string
+**Returns**: {string} Wei URI string
 
 ## .inspect()
 
@@ -84,9 +84,9 @@ Returns : {Object} An object with the parsed params
 
 **Parameters**: None.
 
-**Returns**: {string} Dash URI
+**Returns**: {string} Wei URI
 
 ```js
 const uri = new URI(...);
-bluriock.toInspect() // <URI: dash:Xo4vyw1FtA88rYPYjbNT9kwhVokHHsSuPG>
+bluriock.toInspect() // <URI: wei:Xo4vyw1FtA88rYPYjbNT9kwhVokHHsSuPG>
 ```

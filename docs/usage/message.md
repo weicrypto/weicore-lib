@@ -45,7 +45,7 @@ Returns : {Message} An instance of Message
 
 ## .sign()
 
-**Description**: Will sign a message with a given Dash private key.
+**Description**: Will sign a message with a given Wei private key.
 
 **Parameters**:
 
@@ -57,14 +57,14 @@ Returns : {Message} An instance of Message
 
 ## .verify()
 
-**Description**: Will return a boolean of the signature is valid for a given dash address.  
+**Description**: Will return a boolean of the signature is valid for a given wei address.  
 If it isn't the specific reason is accessible via the "error" member.
 
 **Parameters**:
 
 | parameter   | type           | required | Description    |
 | ----------- | -------------- | -------- | -------------- |
-| **address** | Address/String | yes      | A dash address |
+| **address** | Address/String | yes      | A wei address |
 
 **Returns**: {Boolean}
 

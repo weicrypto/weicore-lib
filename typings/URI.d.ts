@@ -12,7 +12,7 @@
  * @example
  * ```javascript
  *
- * var uri = new URI('dash:XsV4GHVKGTjQFvwB7c6mYsGV3Mxf7iser6?amount=1.2');
+ * var uri = new URI('wei:XsV4GHVKGTjQFvwB7c6mYsGV3Mxf7iser6?amount=1.2');
  * console.log(uri.address, uri.amount);
  * ```
  *
@@ -59,7 +59,7 @@ export class URI {
    * @example
    * ```javascript
    *
-   * var valid = URI.isValid('dash:XsV4GHVKGTjQFvwB7c6mYsGV3Mxf7iser6');
+   * var valid = URI.isValid('wei:XsV4GHVKGTjQFvwB7c6mYsGV3Mxf7iser6');
    * // true
    * ```
    *

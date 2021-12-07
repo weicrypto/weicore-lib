@@ -24,8 +24,8 @@ module.exports = {
   ],
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: 'dashcore-lib.min.js',
-    library: 'dashcore',
+    filename: 'weicore-lib.min.js',
+    library: 'weicore',
     libraryTarget: 'umd',
   },
   optimization: {
