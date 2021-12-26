@@ -439,7 +439,7 @@ describe('BIP32 compliance', function () {
       seededKey.xpubkey.should.equal(vector2_m_public);
     });
   });
-  
+
   describe('DIP14 256-bit compliance', function() {
 
     it('should derive an arbitrary DIP14 256-bit path correctly from a seed', function() {
@@ -454,13 +454,13 @@ describe('BIP32 compliance', function () {
       seededKey.deriveChild(vector3_dip14_path_1_m77_f5h_4c_0).xprivkey.should.equal(vector3_dip14_path_1_m77_f5h_4c_0_xprivkey);
       seededKey.deriveChild(vector3_dip14_path_1_m77_f5h_4c_0).xpubkey.should.equal(vector3_dip14_path_1_m77_f5h_4c_0_xpubkey);
     });
-    
+
     it('should return the same publicKey for non-hardened derivation from HDPrivateKey and HDPublicKey', function() {
       var seededKey = HDPrivateKey.fromSeed(vector3_dip14_master, Networks.testnet);
       seededKey.deriveChild(vector3_dip14_path_1_m77).publicKey.toString().should.equal(vector3_dip14_path_1_m77_public)
       seededKey.hdPublicKey.deriveChild(vector3_dip14_path_1_m77).publicKey.toString().should.equal(vector3_dip14_path_1_m77_public)
     });
-    
+
     it('should serialize the same xpubkey non-hardened derivation from HDPrivateKey and HDPublicKey', function() {
       var seededKey = HDPrivateKey.fromSeed(vector3_dip14_master, Networks.testnet);
       seededKey.deriveChild(vector3_dip14_path_1_m77).xpubkey.toString().should.equal(vector3_dip14_path_1_m77_xpubkey)
@@ -474,18 +474,18 @@ describe('BIP32 compliance', function () {
       seededKey.deriveChild(vector3_dip14_path_1_m77_f5h).xprivkey.should.equal(vector3_dip14_path_1_m77_f5h_xprivkey)
       seededKey.deriveChild(vector3_dip14_path_1_m77_f5h).xpubkey.should.equal(vector3_dip14_path_1_m77_f5h_xpubkey)
     });
-    
+
     it('should derive a Weicrypto DIP14 256-bit path correctly from a seed', function() {
       var seededKey = HDPrivateKey.fromSeed(vector3_dip14_master, Networks.testnet);
       seededKey.deriveChild(vector3_dip14_path_2).privateKey.toString('hex').should.equal(vector3_dip14_path_2_private);
     });
-    
+
     it('should serialize a Weicrypto DIP14 256-bit xpubkey and xprivkey correctly', function() {
       var seededKey = HDPrivateKey.fromSeed(vector3_dip14_master, Networks.testnet);
       seededKey.deriveChild(vector3_dip14_path_2).xprivkey.should.equal(vector3_dip14_path_2_xprivkey);
       seededKey.deriveChild(vector3_dip14_path_2).xpubkey.should.equal(vector3_dip14_path_2_xpubkey);
     });
-    
+
     it('should derive a BIP32 path from hex correctly', function() {
       var seededKey = HDPrivateKey.fromSeed(vector3_dip14_master, Networks.testnet);
       var child = seededKey.deriveChild(vector3_bip32)
@@ -525,7 +525,6 @@ var vector2_m02147483647h12147483646h_private = 'xprvA1RpRA33e1JQ7ifknakTFpgNXPm
 var vector2_m02147483647h12147483646h2_public = 'xpub6FnCn6nSzZAw5Tw7cgR9bi15UV96gLZhjDstkXXxvCLsUXBGXPdSnLFbdpq8p9HmGsApME5hQTZ3emM2rnY5agb9rXpVGyy3bdW6EEgAtqt';
 var vector2_m02147483647h12147483646h2_private = 'xprvA2nrNbFZABcdryreWet9Ea4LvTJcGsqrMzxHx98MMrotbir7yrKCEXw7nadnHM8Dq38EGfSh6dqA9QWTyefMLEcBYJUuekgW4BYPJcr9E7j';
 
-//test vectors: https://github.com/dashpay/dips/blob/master/dip-0014.md#test-vectors todo update later
 var vector3_dip14_master = 'b16d3782e714da7c55a397d5f19104cfed7ffa8036ac514509bbb50807f8ac598eeb26f0797bd8cc221a6cbff2168d90a5e9ee025a5bd977977b9eccd97894bb';
 var vector3_dip14_path_1_m77 = "m/0x775d3854c910b7dee436869c4724bed2fe0784e198b8a39f02bbb49d8ebcfc3b"
 var vector3_dip14_path_1_m77_public = "03a2d1bbd1511e2bad8ed6292e949a97b42c29ce2438e39c93c46df2d283135ad3"

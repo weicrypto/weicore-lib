@@ -2,8 +2,8 @@
 
 [![NPM Version](https://img.shields.io/npm/v/@weicrypto/weicore-lib)](https://www.npmjs.com/package/@weicrypto/weicore-lib)
 [![Build Status](https://github.com/weicrypto/weicore-lib/actions/workflows/test_and_release.yml/badge.svg)](https://github.com/weicrypto/weicore-lib/actions/workflows/test_and_release.yml)
-[![Release Date](https://img.shields.io/github/release-date/weicrypto/weicore-lib)](https://github.com/weicrypto/weicore-lib/releases/latest) //todo update later
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen)](https://github.com/RichardLitt/standard-readme) //todo update later
+[![Release Date](https://img.shields.io/github/release-date/weicrypto/weicore-lib)](https://github.com/weicrypto/weicore-lib/releases/latest)
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen)](https://github.com/RichardLitt/standard-readme)
 
 A pure and powerful JavaScript Wei library.
 

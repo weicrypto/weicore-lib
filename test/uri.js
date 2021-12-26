@@ -24,7 +24,7 @@ describe('URI', function () {
     expect(uri.amount).to.be.undefined;
     expect(uri.otherParam).to.be.undefined;
 
-    uri = URI.parse('wei:Xo4vyw1FtA88rYPYjbNT9kwhVokHHsSuPG');//todo update later
+    uri = URI.parse('wei:Xo4vyw1FtA88rYPYjbNT9kwhVokHHsSuPG');//todo update later4
     uri.address.should.equal('Xo4vyw1FtA88rYPYjbNT9kwhVokHHsSuPG');
     expect(uri.amount).to.be.undefined;
     expect(uri.otherParam).to.be.undefined;

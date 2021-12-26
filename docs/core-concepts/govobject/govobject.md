@@ -82,7 +82,7 @@ var jsonProposal = {
   payment_address: 'yXGeNPQXYFXhLAN1ZKrAjxzzBnZ2JZNKnh',
   payment_amount: 10,
   type: 1,
-  url: 'http://www.dash.org/proposal/first_proposal',//todo update later
+    url: 'https://weicrypto.com/',
 };
 
 // Will instantiate the govObject given the json passed as arg for fromObject

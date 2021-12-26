@@ -555,7 +555,7 @@ describe('Proposal', function () {
       'yik5HAgVAgjH1oZKjcDfvcf22bwBNbSYzB'
     );
     expect(proposal1.url).to.equal(
-      'https://www.dashcentral.org/p/test_proposal_1519097947'//todo update later
+      'https://www.dashcentral.org/p/test_proposal_1519097947'//todo update later2
     );
 
     var proposal2 = new Proposal(datahex2);

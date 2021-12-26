@@ -33,7 +33,7 @@ describe('Networks', function () {
     networks.testnet.port.should.equal(19999);
     networks.testnet.dnsSeeds.should.deep.equal([
       'testnet-seed.darkcoin.io',
-      'testnet-seed.dashdot.io',//todo update later
+      'testnet-seed.dashdot.io',
       'test.dnsseed.masternode.io',
     ]);
   });

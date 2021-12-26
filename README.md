@@ -2,8 +2,8 @@
 
 [![NPM Version](https://img.shields.io/npm/v/@weicrypto/weicore-lib)](https://www.npmjs.com/package/@weicrypto/weicore-lib)
 [![Build Status](https://github.com/weicrypto/weicore-lib/actions/workflows/test_and_release.yml/badge.svg)](https://github.com/weicrypto/weicore-lib/actions/workflows/test_and_release.yml)
-[![Release Date](https://img.shields.io/github/release-date/weicrypto/weicore-lib)](https://github.com/weicrypto/weicore-lib/releases/latest) //todo update later
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen)](https://github.com/RichardLitt/standard-readme) //todo update later
+[![Release Date](https://img.shields.io/github/release-date/weicrypto/weicore-lib)](https://github.com/weicrypto/weicore-lib/releases/latest)
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen)](https://github.com/RichardLitt/standard-readme)
 
 A pure and powerful JavaScript Wei library.
 
@@ -66,12 +66,8 @@ This will generate a file named `weicore-lib.min.js` in the `dist/` folder.
 
 Some functionality is implemented as a module that can be installed separately:
 
-- [Payment Protocol Support](https://github.com/dashevo/dashcore-payment-protocol) //todo update later
-- [Peer to Peer Networking](https://github.com/dashevo/dashcore-p2p)
-- [Dash Core JSON-RPC](https://github.com/dashevo/dashd-rpc)
-- [Mnemonics](https://github.com/dashevo/dashcore-mnemonic)
-- [Elliptical Curve Integrated Encryption Scheme](https://github.com/dashevo/bitcore-ecies-dash)
-- [Signed Messages](https://github.com/dashevo/bitcore-message-dash)
+- [Peer to Peer Networking](https://github.com/weicrypto/weicore-p2p)
+- [Wei Core JSON-RPC](https://github.com/weicrypto/weid-rpc)
 
 ### Development & Tests
 
