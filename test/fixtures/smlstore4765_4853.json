@@ -25,9 +25,7 @@
       ]
     },
     "dnsSeeds": [
-      "testnet-seed.darkcoin.io",
-      "testnet-seed.dashdot.io",
-      "test.dnsseed.masternode.io"
+         "test.dnsseed.weicrypto.com"
     ]
   },
   "options": {
@@ -107,9 +105,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       }
@@ -186,9 +182,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       }
@@ -265,9 +259,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io", //todo update later
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       }
@@ -344,9 +336,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       }
@@ -422,9 +412,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       }
@@ -500,9 +488,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       }
@@ -578,9 +564,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       }
@@ -658,9 +642,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       }
@@ -736,9 +718,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       }
@@ -814,9 +794,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       }
@@ -892,9 +870,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       }
@@ -972,9 +948,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       }
@@ -1050,9 +1024,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       }
@@ -1128,9 +1100,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       }
@@ -1206,9 +1176,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       }
@@ -1251,9 +1219,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -1290,9 +1256,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -1329,9 +1293,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -1368,9 +1330,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -1407,9 +1367,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -1446,9 +1404,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -1485,9 +1441,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -1524,9 +1478,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -1563,9 +1515,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -1602,9 +1552,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -1641,9 +1589,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -1680,9 +1626,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -1719,9 +1663,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -1758,9 +1700,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -1797,9 +1737,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -1836,9 +1774,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -1875,9 +1811,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -1914,9 +1848,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -1953,9 +1885,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -1992,9 +1922,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -2031,9 +1959,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -2070,9 +1996,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -2109,9 +2033,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -2148,9 +2070,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -2187,9 +2107,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -2226,9 +2144,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -2265,9 +2181,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -2304,9 +2218,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -2343,9 +2255,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -2382,9 +2292,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -2421,9 +2329,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -2460,9 +2366,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -2499,9 +2403,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -2538,9 +2440,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -2577,9 +2477,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -2616,9 +2514,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -2655,9 +2551,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -2694,9 +2588,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -2733,9 +2625,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -2772,9 +2662,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -2811,9 +2699,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -2850,9 +2736,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       }
@@ -3298,9 +3182,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -3337,9 +3219,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -3376,9 +3256,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -3415,9 +3293,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -3454,9 +3330,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -3493,9 +3367,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -3532,9 +3404,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -3571,9 +3441,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -3610,9 +3478,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -3649,9 +3515,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -3688,9 +3552,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -3727,9 +3589,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -3766,9 +3626,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -3805,9 +3663,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -3844,9 +3700,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -3883,9 +3737,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -3922,9 +3774,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -3961,9 +3811,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -4000,9 +3848,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -4039,9 +3885,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -4078,9 +3922,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -4117,9 +3959,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -4156,9 +3996,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -4195,9 +4033,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -4234,9 +4070,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -4273,9 +4107,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -4312,9 +4144,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -4351,9 +4181,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -4390,9 +4218,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -4429,9 +4255,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -4468,9 +4292,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -4507,9 +4329,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -4546,9 +4366,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -4585,9 +4403,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -4624,9 +4440,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -4663,9 +4477,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -4702,9 +4514,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -4741,9 +4551,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -4780,9 +4588,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -4819,9 +4625,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -4858,9 +4662,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -4897,9 +4699,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       }
@@ -4971,7 +4771,7 @@
       "dnsSeeds": [
         "testnet-seed.darkcoin.io",
         "testnet-seed.dashdot.io",
-        "test.dnsseed.masternode.io"
+        "test.dnsseed.weicrypto.com"
       ]
     },
     "merkleRootQuorums": "dafb9dd3054704d4a4a55835664698b33071599ed278ee053a9bbcc6dac1cebe",
@@ -5014,9 +4814,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -5053,9 +4851,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -5092,9 +4888,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -5131,9 +4925,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -5170,9 +4962,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -5209,9 +4999,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -5248,9 +5036,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -5287,9 +5073,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -5326,9 +5110,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -5365,9 +5147,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -5404,9 +5184,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -5443,9 +5221,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -5482,9 +5258,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -5521,9 +5295,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -5560,9 +5332,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -5599,9 +5369,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -5638,9 +5406,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -5677,9 +5443,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -5716,9 +5480,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -5755,9 +5517,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -5794,9 +5554,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -5833,9 +5591,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -5872,9 +5628,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -5911,9 +5665,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -5950,9 +5702,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -5989,9 +5739,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -6028,9 +5776,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -6067,9 +5813,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -6106,9 +5850,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -6145,9 +5887,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -6184,9 +5924,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -6223,9 +5961,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -6262,9 +5998,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -6301,9 +6035,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -6340,9 +6072,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -6379,9 +6109,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -6418,9 +6146,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -6457,9 +6183,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -6496,9 +6220,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -6535,9 +6257,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -6574,9 +6294,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -6613,9 +6331,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       }
@@ -7061,9 +6777,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -7100,9 +6814,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -7139,9 +6851,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -7178,9 +6888,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -7217,9 +6925,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -7256,9 +6962,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -7295,9 +6999,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -7334,9 +7036,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -7373,9 +7073,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -7412,9 +7110,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -7451,9 +7147,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -7490,9 +7184,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -7529,9 +7221,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -7568,9 +7258,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -7607,9 +7295,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -7646,9 +7332,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -7685,9 +7369,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -7724,9 +7406,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -7763,9 +7443,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -7802,9 +7480,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -7841,9 +7517,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -7880,9 +7554,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -7919,9 +7591,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -7958,9 +7628,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -7997,9 +7665,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -8036,9 +7702,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -8075,9 +7739,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -8114,9 +7776,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -8153,9 +7813,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -8192,9 +7850,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -8231,9 +7887,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -8270,9 +7924,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -8309,9 +7961,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -8348,9 +7998,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -8387,9 +8035,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -8426,9 +8072,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -8465,9 +8109,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -8504,9 +8146,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -8543,9 +8183,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -8582,9 +8220,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -8621,9 +8257,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       },
@@ -8660,9 +8294,7 @@
             ]
           },
           "dnsSeeds": [
-            "testnet-seed.darkcoin.io",
-            "testnet-seed.dashdot.io",
-            "test.dnsseed.masternode.io"
+            "test.dnsseed.weicrypto.com"
           ]
         }
       }
@@ -8733,7 +8365,7 @@
       "dnsSeeds": [
         "testnet-seed.darkcoin.io",
         "testnet-seed.dashdot.io",
-        "test.dnsseed.masternode.io"
+        "test.dnsseed.weicrypto.com"
       ]
     },
     "merkleRootQuorums": "dafb9dd3054704d4a4a55835664698b33071599ed278ee053a9bbcc6dac1cebe",
