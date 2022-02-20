@@ -1,6 +1,6 @@
 {
   "name": "@weicrypto/weicore-lib",
-  "version": "0.19.29",
+  "version": "0.19.31",
   "description": "A pure and powerful JavaScript Wei library.",
   "author": "Wei Core Group, Inc. <support@weicrypto.com>",
   "main": "index.js",
